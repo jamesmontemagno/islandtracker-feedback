@@ -1,2 +1,3 @@
 # islandtracker-feedback
-Public feedback &amp; bug reporting
+
+Create a new issue for feedback or feature requests.
